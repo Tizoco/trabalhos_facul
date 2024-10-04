@@ -4,4 +4,4 @@ for item in texto:
 
 
 for item in range(1, 11):
-    print(f'N mero do intervalo: {str(item)}')
+    print(f'Numero do intervalo: {str(item)}')

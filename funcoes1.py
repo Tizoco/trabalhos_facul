@@ -1,5 +1,5 @@
-def imprimir_variavel():
-    texto = 'Ola, funces em Python'
-    print(texto)
+    def imprimir_variavel():
+        texto = 'Ola, funces em Python'
+        print(texto)
 
-imprimir_variavel()
+    imprimir_variavel()
